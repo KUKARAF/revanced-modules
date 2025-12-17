@@ -6,4 +6,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
 Patches: anddea/patches-3.15.0-dev.7.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.7)  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.7)
+
+CLI: j-hc/revanced-cli-5.0.0-all.jar    
